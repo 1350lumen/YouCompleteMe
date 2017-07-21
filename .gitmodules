@@ -3,4 +3,4 @@
 	url = https://github.com/ross/requests-futures
 [submodule "third_party/ycmd"]
 	path = third_party/ycmd
-	url = git@github.com:1350lumen/YouCompleteMe.git
+	url = git@github.com:1350lumen/ycmd.git
